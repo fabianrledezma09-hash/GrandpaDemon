@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>itzkiba.grandpa_demon/demons.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{625,222}</string>
+			<key>spriteSourceSize</key>
+			<string>{625,222}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{625,222}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>itzkiba.grandpa_demon/difficulties.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{469,331}</string>
+			<key>spriteSourceSize</key>
+			<string>{469,331}</string>
+			<key>textureRect</key>
+			<string>{{0,224},{469,331}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>realTextureFileName</key>
+		<string>itzkiba.grandpa_demon/GrD_ReadmeSheet.png</string>
+		<key>size</key>
+		<string>{625,555}</string>
+		<key>textureFileName</key>
+		<string>itzkiba.grandpa_demon/GrD_ReadmeSheet.png</string>
+	</dict>
+</dict>
+</plist>
